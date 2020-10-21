@@ -22,7 +22,7 @@ def main(v_id):
         sys.setdefaultencoding('utf-8')
 
     videoId = v_id
-    clientId = 'rw61f6coi308zev9e1ifrr9y3m9t1j'  # c_id
+    clientId = ''  # c_id
 
     chat = []
     time = []
